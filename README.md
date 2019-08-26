@@ -1,2 +1,2 @@
 # QuanLyCuaHangGiatUi
-Xây dựng quản lí cửa hàng giặt ủi
+Xây dựng phần mềm quản lí cửa hàng giặt ủi
